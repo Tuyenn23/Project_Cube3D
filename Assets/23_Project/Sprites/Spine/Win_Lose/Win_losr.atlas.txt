@@ -1,0 +1,111 @@
+
+Win_losr.png
+size: 1672,1340
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 1061, 832
+  size: 588, 508
+  orig: 588, 508
+  offset: 0, 0
+  index: -1
+BG_2
+  rotate: false
+  xy: 1061, 323
+  size: 588, 508
+  orig: 588, 508
+  offset: 0, 0
+  index: -1
+BG_Lose
+  rotate: false
+  xy: 488, 143
+  size: 430, 116
+  orig: 430, 116
+  offset: 0, 0
+  index: -1
+BG_Win
+  rotate: false
+  xy: 488, 30
+  size: 426, 112
+  orig: 426, 112
+  offset: 0, 0
+  index: -1
+Border_lose
+  rotate: false
+  xy: 488, 260
+  size: 486, 67
+  orig: 486, 67
+  offset: 0, 0
+  index: -1
+Crow
+  rotate: false
+  xy: 1176, 183
+  size: 86, 73
+  orig: 86, 73
+  offset: 0, 0
+  index: -1
+FX
+  rotate: false
+  xy: 0, 24
+  size: 487, 303
+  orig: 487, 303
+  offset: 0, 0
+  index: -1
+LOSE _crow
+  rotate: false
+  xy: 1176, 45
+  size: 172, 116
+  orig: 172, 116
+  offset: 0, 0
+  index: -1
+L_trumpet_1
+  rotate: false
+  xy: 1537, 110
+  size: 132, 83
+  orig: 132, 83
+  offset: 0, 0
+  index: -1
+Smoke
+  rotate: false
+  xy: 1265, 162
+  size: 271, 160
+  orig: 271, 160
+  offset: 0, 0
+  index: -1
+VICTORY
+  rotate: false
+  xy: 975, 257
+  size: 289, 65
+  orig: 289, 65
+  offset: 0, 0
+  index: -1
+fx_ui_glow_ring_01
+  rotate: false
+  xy: 1537, 194
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_ui_sunshine_01
+  rotate: false
+  xy: 919, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+light_2
+  rotate: false
+  xy: 0, 328
+  size: 1060, 1012
+  orig: 1060, 1012
+  offset: 0, 0
+  index: -1
+ui_guild_battle_main_panel_glow1
+  rotate: false
+  xy: 1349, 33
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

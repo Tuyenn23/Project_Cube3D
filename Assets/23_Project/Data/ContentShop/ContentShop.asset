@@ -1,0 +1,235 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 306fa9ba451e74245a74f920187fef9b, type: 3}
+  m_Name: ContentShop
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 21300000, guid: 1ceae1a32cb39374893d973ac94b5ee4, type: 3}
+    - {fileID: 21300000, guid: 99ace4413da121f439a0ed826df51e11, type: 3}
+    - {fileID: 21300000, guid: beb56b256ad185a46af5568d0160be3d, type: 3}
+    - {fileID: 21300000, guid: 1d2c2ce981611ba49a87104947474a91, type: 3}
+    - {fileID: 21300000, guid: c17cf1c12c733584d9ec73d341169a0a, type: 3}
+    - {fileID: 21300000, guid: 6bf25709a8c87da40afdbebc8da1b94c, type: 3}
+    - {fileID: 21300000, guid: 83ff4cde7cf351e4bb4e01413de1a74c, type: 3}
+    - {fileID: 21300000, guid: 478e17b971f299e4bb39dfde7acb9c89, type: 3}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: L_ContentShop
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[E_TypeShop, Assembly-CSharp],[System.Collections.Generic.List`1[[SHOPBUYITEM,
+        Assembly-CSharp]], mscorlib]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.EnumEqualityComparer`1[[E_TypeShop, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 0
+    - Name: $v
+      Entry: 7
+      Data: 2|System.Collections.Generic.List`1[[SHOPBUYITEM, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 4
+    - Name: 
+      Entry: 7
+      Data: 3|SHOPBUYITEM, Assembly-CSharp
+    - Name: ID
+      Entry: 3
+      Data: 1
+    - Name: TypeBuyItem
+      Entry: 3
+      Data: 0
+    - Name: NamePack
+      Entry: 1
+      Data: Pack 1
+    - Name: Background
+      Entry: 10
+      Data: 0
+    - Name: IconCoin
+      Entry: 10
+      Data: 1
+    - Name: AmoutCoin
+      Entry: 3
+      Data: 200
+    - Name: IconMegnat
+      Entry: 10
+      Data: 2
+    - Name: AmoutMegnat
+      Entry: 3
+      Data: 20
+    - Name: IconHeart
+      Entry: 10
+      Data: 3
+    - Name: AmoutHeart
+      Entry: 3
+      Data: 10
+    - Name: Price
+      Entry: 3
+      Data: 2000
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 4|SHOPBUYITEM, Assembly-CSharp
+    - Name: ID
+      Entry: 3
+      Data: 2
+    - Name: TypeBuyItem
+      Entry: 3
+      Data: 0
+    - Name: NamePack
+      Entry: 1
+      Data: Pack 2
+    - Name: Background
+      Entry: 10
+      Data: 4
+    - Name: IconCoin
+      Entry: 10
+      Data: 1
+    - Name: AmoutCoin
+      Entry: 3
+      Data: 300
+    - Name: IconMegnat
+      Entry: 10
+      Data: 2
+    - Name: AmoutMegnat
+      Entry: 3
+      Data: 15
+    - Name: IconHeart
+      Entry: 10
+      Data: 3
+    - Name: AmoutHeart
+      Entry: 3
+      Data: 15
+    - Name: Price
+      Entry: 3
+      Data: 3000
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 5|SHOPBUYITEM, Assembly-CSharp
+    - Name: ID
+      Entry: 3
+      Data: 3
+    - Name: TypeBuyItem
+      Entry: 3
+      Data: 0
+    - Name: NamePack
+      Entry: 1
+      Data: Pack 3
+    - Name: Background
+      Entry: 10
+      Data: 5
+    - Name: IconCoin
+      Entry: 10
+      Data: 1
+    - Name: AmoutCoin
+      Entry: 3
+      Data: 100
+    - Name: IconMegnat
+      Entry: 10
+      Data: 2
+    - Name: AmoutMegnat
+      Entry: 3
+      Data: 40
+    - Name: IconHeart
+      Entry: 10
+      Data: 6
+    - Name: AmoutHeart
+      Entry: 3
+      Data: 5
+    - Name: Price
+      Entry: 3
+      Data: 1000
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 6|SHOPBUYITEM, Assembly-CSharp
+    - Name: ID
+      Entry: 3
+      Data: 4
+    - Name: TypeBuyItem
+      Entry: 3
+      Data: 0
+    - Name: NamePack
+      Entry: 1
+      Data: Pack 4
+    - Name: Background
+      Entry: 10
+      Data: 7
+    - Name: IconCoin
+      Entry: 10
+      Data: 1
+    - Name: AmoutCoin
+      Entry: 3
+      Data: 500
+    - Name: IconMegnat
+      Entry: 10
+      Data: 2
+    - Name: AmoutMegnat
+      Entry: 3
+      Data: 10
+    - Name: IconHeart
+      Entry: 10
+      Data: 3
+    - Name: AmoutHeart
+      Entry: 3
+      Data: 20
+    - Name: Price
+      Entry: 3
+      Data: 4000
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 

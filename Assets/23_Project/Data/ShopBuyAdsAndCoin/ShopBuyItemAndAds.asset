@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc85d74e75408de43aa22d87d5f7a2dd, type: 3}
+  m_Name: ShopBuyItemAndAds
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  L_ShopAdsAndItem:
+  - TypeItem: 0
+    BgItem_img: {fileID: 21300000, guid: 93b120c029ca548469477f1d1604f5f6, type: 3}
+    NameItem: Coin 3
+    Price: 300
+  - TypeItem: 1
+    BgItem_img: {fileID: 21300000, guid: 7beaff83866604a4a9072704e3240cf4, type: 3}
+    NameItem: Ads
+    Price: 350

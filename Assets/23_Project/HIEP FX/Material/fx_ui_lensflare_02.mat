@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: fx_ui_lensflare_02
+  m_Shader: {fileID: 10720, guid: 0000000000000000f000000000000000, type: 0}
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _USE_DISTORTION
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Atex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Dstex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Dtex:
+        m_Texture: {fileID: 2800000, guid: c4f9d09dbf7b4664d9e38e1b342c498f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: feecc574b4e4b5743985c2bf0d40dd88, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SubTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Ai: 0
+    - _AtexSpdX: 0
+    - _AtexSpdY: 0
+    - _Culling: 0
+    - _Di: 0
+    - _DsEdgeMul: 0
+    - _DsEdgeRange: 0
+    - _Dsi: 0
+    - _DstMode: 1
+    - _DstexSpdX: 0
+    - _DstexSpdY: 0
+    - _DtexSpdX: 0
+    - _DtexSpdY: 0
+    - _Fade: 1
+    - _MtexSpdX: 0
+    - _MtexSpdY: 0
+    - _SBDi: 0
+    - _SBMix: 0
+    - _SBtexSpdX: 0
+    - _SBtexSpdY: 0
+    - _SrcMode: 5
+    - _UseAlphaTex: 0
+    - _UseDissolveTex: 0
+    - _UseDistTex: 1
+    - _UseRChannel: 0
+    - _UseShaderTime: 0
+    - _UseSubTex: 0
+    - _Zwrite: 0
+    m_Colors:
+    - _DsEdgeC: {r: 1, g: 1, b: 1, a: 1}
+    - _MtexC: {r: 0.509434, g: 0.33680147, b: 0.22828409, a: 1}
+    - _SBtexC: {r: 1, g: 1, b: 1, a: 1}
+    - _TimeValue: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0aaa33f99d90276429c0717f53b483d8, type: 3}
+  m_Name: Brick
+  m_EditorClassIdentifier: 
+  L_Bricks:
+  - E_TypeBrick: 0
+    texture: {fileID: 2800000, guid: 1d385e8999ca54d4587f7fd487d48742, type: 3}
+  - E_TypeBrick: 1
+    texture: {fileID: 2800000, guid: a8330e01120709949b6df0fba3c35776, type: 3}
+  - E_TypeBrick: 4
+    texture: {fileID: 2800000, guid: 429a087cbd17b2f45822bfb4270d4f77, type: 3}
+  - E_TypeBrick: 2
+    texture: {fileID: 2800000, guid: a3a0c5222759c444399d39ba40560602, type: 3}
+  - E_TypeBrick: 3
+    texture: {fileID: 2800000, guid: 8993a7d99c190da4c895fec76a35e773, type: 3}
+  - E_TypeBrick: 4
+    texture: {fileID: 2800000, guid: 429a087cbd17b2f45822bfb4270d4f77, type: 3}
+  - E_TypeBrick: 5
+    texture: {fileID: 2800000, guid: 0ebf6623afb49654d874f50cb51f80bd, type: 3}
+  - E_TypeBrick: 7
+    texture: {fileID: 2800000, guid: 063cd9fcc3711b442817f7383c88790f, type: 3}
+  - E_TypeBrick: 6
+    texture: {fileID: 2800000, guid: d154ebdf31c7c5f4c894f515586091d4, type: 3}
+  - E_TypeBrick: 8
+    texture: {fileID: 2800000, guid: 063cd9fcc3711b442817f7383c88790f, type: 3}

@@ -1,0 +1,223 @@
+
+Circle_Level_FX.png
+size: 1564,776
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_Level01
+  rotate: false
+  xy: 381, 6
+  size: 191, 196
+  orig: 191, 196
+  offset: 0, 0
+  index: -1
+FX_Level02
+  rotate: false
+  xy: 766, 3
+  size: 190, 196
+  orig: 190, 196
+  offset: 0, 0
+  index: -1
+FX_Level03
+  rotate: false
+  xy: 385, 203
+  size: 187, 194
+  orig: 187, 194
+  offset: 0, 0
+  index: -1
+FX_Level04
+  rotate: false
+  xy: 573, 202
+  size: 183, 194
+  orig: 183, 194
+  offset: 0, 0
+  index: -1
+FX_Level05
+  rotate: false
+  xy: 757, 202
+  size: 182, 194
+  orig: 182, 194
+  offset: 0, 0
+  index: -1
+FX_Level06
+  rotate: false
+  xy: 1371, 393
+  size: 190, 193
+  orig: 190, 193
+  offset: 0, 0
+  index: -1
+FX_Level07
+  rotate: false
+  xy: 389, 398
+  size: 195, 191
+  orig: 195, 191
+  offset: 0, 0
+  index: -1
+FX_Level08
+  rotate: false
+  xy: 585, 397
+  size: 196, 191
+  orig: 196, 191
+  offset: 0, 0
+  index: -1
+FX_Level09
+  rotate: false
+  xy: 782, 397
+  size: 196, 191
+  orig: 196, 191
+  offset: 0, 0
+  index: -1
+FX_Level10
+  rotate: false
+  xy: 1168, 587
+  size: 195, 189
+  orig: 195, 189
+  offset: 0, 0
+  index: -1
+FX_Level11
+  rotate: false
+  xy: 390, 590
+  size: 194, 186
+  orig: 194, 186
+  offset: 0, 0
+  index: -1
+FX_Level12
+  rotate: false
+  xy: 0, 596
+  size: 194, 180
+  orig: 194, 180
+  offset: 0, 0
+  index: -1
+FX_Level13
+  rotate: false
+  xy: 585, 590
+  size: 193, 186
+  orig: 193, 186
+  offset: 0, 0
+  index: -1
+FX_Level14
+  rotate: false
+  xy: 196, 402
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+FX_Level15
+  rotate: false
+  xy: 1307, 197
+  size: 192, 195
+  orig: 192, 195
+  offset: 0, 0
+  index: -1
+FX_Level16
+  rotate: false
+  xy: 957, 2
+  size: 191, 196
+  orig: 191, 196
+  offset: 0, 0
+  index: -1
+FX_Level17
+  rotate: false
+  xy: 1149, 0
+  size: 189, 196
+  orig: 189, 196
+  offset: 0, 0
+  index: -1
+FX_Level18
+  rotate: false
+  xy: 0, 14
+  size: 187, 195
+  orig: 187, 195
+  offset: 0, 0
+  index: -1
+FX_Level19
+  rotate: false
+  xy: 940, 200
+  size: 183, 194
+  orig: 183, 194
+  offset: 0, 0
+  index: -1
+FX_Level20
+  rotate: false
+  xy: 1124, 199
+  size: 182, 194
+  orig: 182, 194
+  offset: 0, 0
+  index: -1
+FX_Level21
+  rotate: false
+  xy: 0, 210
+  size: 190, 193
+  orig: 190, 193
+  offset: 0, 0
+  index: -1
+FX_Level22
+  rotate: false
+  xy: 1175, 394
+  size: 195, 192
+  orig: 195, 192
+  offset: 0, 0
+  index: -1
+FX_Level23
+  rotate: false
+  xy: 979, 395
+  size: 195, 191
+  orig: 195, 191
+  offset: 0, 0
+  index: -1
+FX_Level24
+  rotate: false
+  xy: 0, 404
+  size: 195, 190
+  orig: 195, 190
+  offset: 0, 0
+  index: -1
+FX_Level25
+  rotate: false
+  xy: 1364, 587
+  size: 194, 189
+  orig: 194, 189
+  offset: 0, 0
+  index: -1
+FX_Level26
+  rotate: false
+  xy: 779, 589
+  size: 194, 187
+  orig: 194, 187
+  offset: 0, 0
+  index: -1
+FX_Level27
+  rotate: false
+  xy: 195, 595
+  size: 194, 181
+  orig: 194, 181
+  offset: 0, 0
+  index: -1
+FX_Level28
+  rotate: false
+  xy: 974, 589
+  size: 193, 187
+  orig: 193, 187
+  offset: 0, 0
+  index: -1
+FX_Level29
+  rotate: false
+  xy: 191, 208
+  size: 193, 193
+  orig: 193, 193
+  offset: 0, 0
+  index: -1
+FX_Level30
+  rotate: false
+  xy: 188, 12
+  size: 192, 195
+  orig: 192, 195
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 573, 6
+  size: 192, 195
+  orig: 192, 195
+  offset: 0, 0
+  index: -1

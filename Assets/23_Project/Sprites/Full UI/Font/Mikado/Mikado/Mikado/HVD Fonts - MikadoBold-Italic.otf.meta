@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 857d1907d68f676409a32b0150dea193
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Mikado
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c360d538572d2ea4e92419490187ad50, type: 3}
+  - {fileID: 12800000, guid: 302c1a1fd44bd1043ab22f8da7996f0a, type: 3}
+  - {fileID: 12800000, guid: 814ea548e236c55408ee4c30d266331a, type: 3}
+  - {fileID: 12800000, guid: 55dee1f534776ff44b73be830e3d3189, type: 3}
+  - {fileID: 12800000, guid: 35ede1496e870ad4aaad93eed948d262, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

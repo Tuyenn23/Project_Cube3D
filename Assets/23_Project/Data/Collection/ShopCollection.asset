@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b55e6f268a4c39a4a88155c62b91c339, type: 3}
+  m_Name: ShopCollection
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 21300000, guid: 717912e1f741cb64491147ccfa875272, type: 3}
+    - {fileID: 21300000, guid: e415a5c941b70044e84c3fbe689d3bcc, type: 3}
+    - {fileID: 21300000, guid: 20b79118e4bb29c4b9dcfe6dbf734f92, type: 3}
+    - {fileID: 21300000, guid: 09c4882c3a7a6fb48baa9cc58f295295, type: 3}
+    - {fileID: 6837344263890281879, guid: 393e630b93b1cda47bc738771ebba904, type: 3}
+    - {fileID: 21300000, guid: 421e16c2d2fdc47438cb92029d57545f, type: 3}
+    - {fileID: 21300000, guid: cb59ca74721c6e64bb0c45505012132a, type: 3}
+    - {fileID: 21300000, guid: 7855273890b8f5245b87bf82a523f16a, type: 3}
+    - {fileID: 21300000, guid: bb88fd5567d7d2048be70c305908ebba, type: 3}
+    - {fileID: 3771213093835349312, guid: 349c21d835a7ecb458ea723b728dc207, type: 3}
+    - {fileID: 21300000, guid: f8416dd77a13c5b4ea710559e389fd64, type: 3}
+    - {fileID: 21300000, guid: eb403604f5557d746944ca3f70fea87a, type: 3}
+    - {fileID: 21300000, guid: 749c20e1d2dd82c4bb08c8b08f6ef58c, type: 3}
+    - {fileID: 21300000, guid: 9736215f2341bb64c86f8b51954ba1ce, type: 3}
+    - {fileID: 4602944994605750665, guid: 508eb3b26a82ced4b8855ad4d08858d0, type: 3}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: L_ShopCollection
+      Entry: 7
+      Data: 0|MS.Internal.Xml.XPath.ClonableStack`1[[SHOPCOLLECTION, Assembly-CSharp]],
+        System.Xml
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: 1|SHOPCOLLECTION, Assembly-CSharp
+    - Name: TypE_TypeCollection
+      Entry: 3
+      Data: 0
+    - Name: Background
+      Entry: 10
+      Data: 0
+    - Name: BgInGame
+      Entry: 10
+      Data: 1
+    - Name: Brick
+      Entry: 10
+      Data: 2
+    - Name: EffectModel
+      Entry: 10
+      Data: 3
+    - Name: Effect
+      Entry: 10
+      Data: 4
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 2|SHOPCOLLECTION, Assembly-CSharp
+    - Name: TypE_TypeCollection
+      Entry: 3
+      Data: 1
+    - Name: Background
+      Entry: 10
+      Data: 5
+    - Name: BgInGame
+      Entry: 10
+      Data: 6
+    - Name: Brick
+      Entry: 10
+      Data: 7
+    - Name: EffectModel
+      Entry: 10
+      Data: 8
+    - Name: Effect
+      Entry: 10
+      Data: 9
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 3|SHOPCOLLECTION, Assembly-CSharp
+    - Name: TypE_TypeCollection
+      Entry: 3
+      Data: 2
+    - Name: Background
+      Entry: 10
+      Data: 10
+    - Name: BgInGame
+      Entry: 10
+      Data: 11
+    - Name: Brick
+      Entry: 10
+      Data: 12
+    - Name: EffectModel
+      Entry: 10
+      Data: 13
+    - Name: Effect
+      Entry: 10
+      Data: 14
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
